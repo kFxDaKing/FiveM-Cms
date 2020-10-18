@@ -10,7 +10,7 @@ class EyPluginComponent extends CakeObject
     public $pluginsInFolder = array();
     public $pluginsInDB = array();
     private $alreadyCheckValid = array();
-    private $reference = 'https://raw.githubusercontent.com/MineWeb/mineweb.org/gh-pages/market/plugins.json';
+    private $reference = 'https://raw.githubusercontent.com/zinzin92/fivem-cms.org/gh-pages/market/plugins.json';
 
     public $pluginsFolder;
 
